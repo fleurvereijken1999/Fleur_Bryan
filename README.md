@@ -1,5 +1,3 @@
-# Fleur_Bryan
-DeepLearning
 # 1D-CNN classification model
 
 Our model is a classification model for GO-term prediction based on protein sequences
